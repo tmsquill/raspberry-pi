@@ -3,10 +3,6 @@
 # Install tools.
 sudo apt-get install git htop vim -y
 
-# Set username and email for Git.
-git config --global user.email "troysquillaci@gmail.com"
-git config --global user.name "Troy Squillaci"
-
 # Install pyenv for Python management.
 curl https://pyenv.run | bash
 

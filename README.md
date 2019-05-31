@@ -3,7 +3,7 @@ This is a convenient script for provisioning useful software on a fresh install 
 - Installs ```git```, ```htop```, and ```vim```.
 - Installs ```pyenv``` for managing Python installations.
 - Creates SSH keys, then prompts the user to upload them to GitLab (or other remotes).
-- (Optional) pulls dotfiles from GitLab and forms symbolic links.
+- (Optional) Pulls dotfiles from GitLab and forms symbolic links.
 
 ### Installation
 ```bash
