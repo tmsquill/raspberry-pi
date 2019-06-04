@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Install tools.
-sudo apt-get install git htop vim -y
+sudo apt-get install git htop libffi-dev vim -y
 
 # Install pyenv for Python management.
 curl https://pyenv.run | bash
