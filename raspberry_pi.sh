@@ -11,7 +11,7 @@ git config --global user.name "Troy Squillaci"
 curl https://pyenv.run | bash
 
 cat >> ~/.bashrc << 'EOF'
-export PATH="/home/user/.pyenv/bin:$PATH"
+export PATH="/home/pi/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 EOF
