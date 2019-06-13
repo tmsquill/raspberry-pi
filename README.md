@@ -7,5 +7,5 @@ This is a convenient script for provisioning useful software on a fresh install 
 
 ### Installation
 ```bash
-curl -L https://gitlab.com/zivia/raspberry_pi/raw/master/raspberry_pi.sh | bash
+curl -sSL https://gitlab.com/zivia/raspberry_pi/raw/master/raspberry_pi.sh | bash
 ```
